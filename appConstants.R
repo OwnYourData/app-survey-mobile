@@ -5,4 +5,4 @@
 appName <- 'survey-mobile'
 appTitle <- 'Vorhersagen'
 app_id <- 'eu.ownyourdata.survey'
-desktopUrl <- 'https://vorhersagen.datentresor.org'
+desktopUrl <- 'https://vorhersagen.oydapp.eu'
